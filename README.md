@@ -6,6 +6,7 @@
   <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Arduino-00878F?style=flat&logo=arduino&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat&logo=raspberrypi&logoColor=white"/></a>
 
   <a href="#"><img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/></a>
