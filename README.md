@@ -13,6 +13,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/AfterEffects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/PremirePro-9999FF?style=flat&logo=adobepremierepro&logoColor=white"/></a>
+  
   <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white"/></a>
 
