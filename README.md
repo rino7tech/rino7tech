@@ -3,5 +3,6 @@
 
 <h1>GitHubStatus</h1>
 <p align="left">
-<img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rino1011&layout=donut&theme=radical&bg_color=0D1117&hide_border=true" />
-<img alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api?username=Rino1011&theme=radical&bg_color=0D1117&hide_border=true" />
+<img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rino1011&theme=default" />
+<img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rino1011&theme=default" />
+<img alt="Top Langs" height="176px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rino1011&theme=default" />
