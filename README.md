@@ -27,7 +27,7 @@
 <a href="#"><img src="https://img.shields.io/badge/Raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black"/></a>
 
 
 
