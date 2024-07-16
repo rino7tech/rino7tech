@@ -1,6 +1,11 @@
 <h1>FavoriteTech!</h1>
 <img alt="Top Langs" height="60px" src="https://skillicons.dev/icons?i=swift,firebase,nextjs,ts,rails&perline=" />
 
+<h1>GitHubStatus!</h1>
+<p align="left">
+<img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rino1011&theme=omni" />
+<img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rino1011&theme=omni" />
+<img alt="Top Langs" height="176px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rino1011&theme=omni" />
 
 <h1>UsedTech!</h1>
 <a href="#"><img src="https://img.shields.io/badge/AfterEffext-9999FF?style=flat&logo=adobeaftereffects&logoColor=white"/></a>
@@ -27,8 +32,3 @@
 
 
 
-<h1>GitHubStatus!</h1>
-<p align="left">
-<img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rino1011&theme=omni" />
-<img alt="Top Langs" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rino1011&theme=omni" />
-<img alt="Top Langs" height="176px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rino1011&theme=omni" />
