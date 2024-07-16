@@ -18,7 +18,6 @@
 <a href="#"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/></a>
