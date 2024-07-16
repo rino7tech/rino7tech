@@ -1,5 +1,5 @@
 <h1>FavoriteTech!</h1>
-<img alt="Top Langs" height="40px" src="https://skillicons.dev/icons?i=swift,firebase,nextjs,ts,rails&perline=" />
+<img alt="Top Langs" height="50px" src="https://skillicons.dev/icons?i=swift,firebase,nextjs,ts,rails&perline=" />
 
 <h1>GitHubStatus!</h1>
 <p align="left">
